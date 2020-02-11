@@ -1,0 +1,7 @@
+C:\Users\RonilsondeSousaSilva\source\repos\GettingStartedClient\GettingStartedClient\bin\Debug\GettingStartedClient.exe.config
+C:\Users\RonilsondeSousaSilva\source\repos\GettingStartedClient\GettingStartedClient\bin\Debug\GettingStartedClient.exe
+C:\Users\RonilsondeSousaSilva\source\repos\GettingStartedClient\GettingStartedClient\bin\Debug\GettingStartedClient.pdb
+C:\Users\RonilsondeSousaSilva\source\repos\GettingStartedClient\GettingStartedClient\obj\Debug\GettingStartedClient.csprojAssemblyReference.cache
+C:\Users\RonilsondeSousaSilva\source\repos\GettingStartedClient\GettingStartedClient\obj\Debug\GettingStartedClient.csproj.CoreCompileInputs.cache
+C:\Users\RonilsondeSousaSilva\source\repos\GettingStartedClient\GettingStartedClient\obj\Debug\GettingStartedClient.exe
+C:\Users\RonilsondeSousaSilva\source\repos\GettingStartedClient\GettingStartedClient\obj\Debug\GettingStartedClient.pdb

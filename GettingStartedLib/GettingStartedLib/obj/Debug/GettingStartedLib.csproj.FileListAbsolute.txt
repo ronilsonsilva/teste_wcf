@@ -1,0 +1,6 @@
+C:\Users\RonilsondeSousaSilva\source\repos\GettingStartedLib\GettingStartedLib\bin\GettingStartedLib.dll.config
+C:\Users\RonilsondeSousaSilva\source\repos\GettingStartedLib\GettingStartedLib\bin\GettingStartedLib.dll
+C:\Users\RonilsondeSousaSilva\source\repos\GettingStartedLib\GettingStartedLib\bin\GettingStartedLib.pdb
+C:\Users\RonilsondeSousaSilva\source\repos\GettingStartedLib\GettingStartedLib\obj\Debug\GettingStartedLib.csproj.CoreCompileInputs.cache
+C:\Users\RonilsondeSousaSilva\source\repos\GettingStartedLib\GettingStartedLib\obj\Debug\GettingStartedLib.dll
+C:\Users\RonilsondeSousaSilva\source\repos\GettingStartedLib\GettingStartedLib\obj\Debug\GettingStartedLib.pdb
